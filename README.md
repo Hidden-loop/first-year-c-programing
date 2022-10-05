@@ -12,3 +12,5 @@ this readme file will also function as a log till i find a better substitute in 
  02/10/2022: added an include file and a program to find the greatest number from the user given numbers. also set up a greetings automation (not sure how that will work though haha)
 
 03/10/2022: added Bubble Sort Algorithm program.
+
+05/10/2022: addded program ro find address of a variable
