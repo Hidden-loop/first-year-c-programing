@@ -4,10 +4,14 @@
 void main()
 {
 clrscr();
-int d,x=0;
+int d,x;
 start:
 	printf("\n dice game \n");
-	d=rand() % 7;
+	printf("press 0 to exit and 1 to continue\n");
+	scanf("%d",&x);
+	if (x==0)
+	exit (0);
+d=rand() % 7;
 switch(d){
 case 1:printf("face value 1");
        break;
