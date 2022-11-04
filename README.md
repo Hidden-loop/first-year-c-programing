@@ -17,5 +17,6 @@ this readme file will also function as a log till i find a better substitute in 
 
 07/10/2022: added programs for addition and multiplication in 2D arrays using matrixs.
 
-08/10/2022: added program to reverse inputted number
+08/10/2022: added program to reverse inputted number.
 
+17/10/2022: added programs to show use of functions and program to print a pattern.
