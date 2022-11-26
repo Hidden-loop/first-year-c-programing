@@ -23,4 +23,6 @@ this readme file will also function as a log till i find a better substitute in 
 
 4/11/2022: added programs like stack, factorial finding program and array filling program; all of which show use of user defined functions.
 
+10/11/2022: added program to show string operations.
+
 25/11/2022: added programs to print different patterns and to show how to input and output datatypes.
