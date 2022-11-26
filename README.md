@@ -22,3 +22,5 @@ this readme file will also function as a log till i find a better substitute in 
 17/10/2022: added programs to show use of functions and program to print a pattern.
 
 4/11/2022: added programs like stack, factorial finding program and array filling program; all of which show use of user defined functions.
+
+25/11/2022: added programs to print different patterns.
