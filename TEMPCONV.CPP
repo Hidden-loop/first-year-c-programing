@@ -5,6 +5,18 @@ void conv(float c) // function to convert celsius to fahrenheit
 
     f = c * 9 / 5 + 32;
     printf("\n%f", f);
+    if (f > 108)
+    {
+        printf("fever");
+    }
+    else if (f < 89)
+    {
+        printf("low temp");
+    }
+    else if (f > 89 && f < 108)
+    {
+        printf("normal temp");
+    }
 }
 
 void kelvin(float c) // function to convert celcius to kelvin
@@ -20,10 +32,9 @@ void main()
 fresh:
     clrscr();
     int a, x, y;
+start:
     printf("press 1 to convert celsius to farhenheit\n press 2 to convert celsius to kelvin\npress 3 to exit\n");
     scanf("%d", &y);
-
-start:
 
     switch (y)
     {
