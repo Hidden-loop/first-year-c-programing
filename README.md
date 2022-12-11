@@ -27,4 +27,6 @@ this readme file will also function as a log till i find a better substitute in 
 
 25/11/2022: added programs to print different patterns and to show how to input and output datatypes.
 
-8/12/2022:added proogram to convert temperatures in celsius to fahrenheit and kelvin.
+8/12/2022: added proogram to convert temperatures in celsius to fahrenheit and kelvin.
+
+11/12/2022: added programs to show use of count sort algorithm and binary sort algorithms(using both iterative and recursive methods).
