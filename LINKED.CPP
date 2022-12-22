@@ -116,6 +116,3 @@ void delet(void)
 }
 
 void delmid(void)
-{
-	struct node *temp;
-}
