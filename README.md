@@ -30,3 +30,7 @@ this readme file will also function as a log till i find a better substitute in 
 8/12/2022: added proogram to convert temperatures in celsius to fahrenheit and kelvin.
 
 11/12/2022: added programs to show use of count sort algorithm and binary sort algorithms (using both iterative and recursive methods).
+
+18/12/2022: added programs to demonstrate simple linked list, merge 2 arrays into a sorted array, guess the type of triangle,patterns.
+
+21/12/2022: added program to check collinearity of 3 dots, to find y from slope and to find factorial upto a given number.
