@@ -114,5 +114,3 @@ void delet(void)
 		free(temp);
 	}
 }
-
-void delmid(void)
