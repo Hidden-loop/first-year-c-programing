@@ -6,6 +6,8 @@ this readme file will also function as a log till i find a better substitute in 
  This is also my first time using github to publish programs, i'll use this oportunity to learn github better.
 
  programs in this repo ae mostly very basic/beginner programs.
+ 
+ # programs uploded: 53
 
  30/09/2022: published the repo for the first time with some basic programs like dice, calculator, adding and merging two arrays, generating random numbers and storing them in an array and reversing an array etc.
  
@@ -34,7 +36,3 @@ this readme file will also function as a log till i find a better substitute in 
 18/12/2022: added programs to demonstrate simple linked list, merge 2 arrays into a sorted array, guess the type of triangle,patterns.
 
 21/12/2022: added program to check collinearity of 3 dots, to find y from slope and to find factorial upto a given number.
-
-5/02/2023: added program for restaurant billing system.
-
-6/02/2023: added program for struct sort by chronological order and  struct sort by alphabetical order.
