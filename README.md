@@ -7,7 +7,7 @@ this readme file will also function as a log till i find a better substitute in 
 
  programs in this repo ae mostly very basic/beginner programs.
  
- # programs uploded: 53
+ # programs uploded: 50
 
  30/09/2022: published the repo for the first time with some basic programs like dice, calculator, adding and merging two arrays, generating random numbers and storing them in an array and reversing an array etc.
  
