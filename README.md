@@ -37,4 +37,4 @@ this readme file will also function as a log till i find a better substitute in 
 
 5/02/2023: added program for restaurant billing system.
 
-6/02/2023: added program for struct sort.
+6/02/2023: added program for struct sort by chronological order and  struct sort by alphabetical order.
