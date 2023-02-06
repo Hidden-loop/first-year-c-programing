@@ -36,3 +36,5 @@ this readme file will also function as a log till i find a better substitute in 
 21/12/2022: added program to check collinearity of 3 dots, to find y from slope and to find factorial upto a given number.
 
 5/02/2023: added program for restaurant billing system.
+
+6/02/2023: added program for struct sort.
